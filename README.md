@@ -11,9 +11,9 @@ Geleceğin Türkiyesi, hayal edilen ileri bir Türkiye icin bir oneriler dizisid
 * ARASTIR: https://www.dogrulukpayi.com/bulten/2021-butce-dagilimi
 * Tüik enflasyon verilerini her şeyi dahil ederek hesaplayacak.
 
-## Bakanlik Degisiklikleri
+## Bakanlık Değişiklikleri
 
-Mevcut bakanliklar icin kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_bakanl%C4%B1klar
+Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_bakanl%C4%B1klar
 
 | Eski Adi                             | Yeni Adi          | Not |
 | ------------------------------------ | ----------------- | ------ |
@@ -33,28 +33,28 @@ Mevcut bakanliklar icin kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27dek
 
 ## Adalet Bakanlığı
 
-* Agirlastirilmis muebbet 25 yil degil, gercekten omur boyu olacak.
-* Kadin cinayetleri agirlastirilmis muebbetle cezalandirilacak.
-* Doktora siddet agir ceza, kamu davasi.
+* Ağırlaştırılmış müebbet 25 yıl değil, gerçekten ömür boyu olacak.
+* Kadın cinayetleri ağırlaştırılmış müebbetle cezalandırılacak.
+* Doktora şiddet ağır ceza sayılacak, kamu davası açılacak.
 * Ceza indirimleri iptal edilecek.
-* Tum cezaevlerinde uretim yapilacak: Kese kagidi vb.
-  * ARASTIR: Neler uretiliyor dunyada?
-* Muge Anli:
-  * Program TRT'ye tasinip kamu statusu alacak.
-  * Sevgi Izi projesine genis kamu destegi saglanacak.
+* Tüm cezaevlerinde üretim yapılacak: Kese kağıdı vb.
+  * ARAŞTIR: Neler üretiliyor dünyada?
+* Müge Anlı:
+  * Program TRT'ye taşınıp kamu statüsü alacak.
+  * Sevgi İzi projesine kamu desteği sağlanacak.
 
-### Feto
+### FETÖ
 
-* Feto yargılamaları yeniden yapılacak, ilgililer kamudan el çektirilecek ve mallarına el konulacak.
-* Feto ile ilgisi olan şirketler kamulaştırılacak.
+* FETÖ yargılamaları yeniden yapılacak, ilgililer kamudan el çektirilecek ve mallarına el konulacak.
+* FETÖ ile ilgisi olan şirketler kamulaştırılacak.
 
 ### Yolsuzluk Komisyonu
 
-* Yolsuzluk ihbar hatti: Whatsapp, e-posta (+ pgp), telefon, fax...
-* Son 50 yilda zenginlesen tum kamu gorevlileri sorusturulacak.
-* Turk Telekom kamulastirilacak ve ozellestirenler ve satin alanlar sorusturulacak.
-* Satilan orman, kiyi, tarim arazileri incelenip bedelsiz geri alinacak.
-* Ozellestirilen santraller ve su kaynaklari kamulastirilacak.
+* Yolsuzluk ihbar hattı: Whatsapp, e-posta (+ pgp), telefon, fax...
+* Son 50 yılda zenginleşen tüm kamu görevlileri soruşturulacak.
+* Türk Telekom kamulaştırılacak ve özelleştirenler ve satın alanlar soruşturulacak.
+* Satılan orman, kıyı, tarım arazileri incelenip bedelsiz geri alınacak.
+* Özelleştirilen santraller ve su kaynakları bedelsiz kamulaştırılacak.
 * Kanal İstanbul
 	* Hat boyunca spekülatif işlemle yapıldığı için tüm topraklar bedelsiz kamulaştırılacak.
 	* Proje yapanlar, çevre izinleri verenler, siyasi malzeme olarak kullanıp savunan siyasiler, şahsi amaç uğruna kamu zararı vermekten yargılanacak.
@@ -63,12 +63,12 @@ Mevcut bakanliklar icin kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27dek
 
 * Plastiğin yakılmadan, maliyetine bakılmaksızın, mantar, bakteri, enzim, soğuk plazma pirolizi vb yollarla çözünmesi ve geri dönüştürülmesi için araştırmalar yapılacak. [1](https://www.evrensel.net/haber/364179/plastik-atiklari-yesil-enerjiye-nasil-donusturebiliriz) [2](https://www.bbc.com/turkce/haberler-dunya-43793007.amp) [3](https://bilimvegelecek.com.tr/index.php/2020/04/08/geri-donusumu-zor-plastikleri-sindirebilen-bir-bakteri-turu-kesfedildi/)
 * Kanatsız rüzgar türbinleri gibi alternatif enerji üretim yöntemleri araştırılacak. [1](https://www.euronews.com/green/amp/2021/04/02/it-may-look-rude-but-this-vibrating-wind-turbine-is-producing-clean-energy) [2](https://www.opusenergy.com/blog/8-strangest-renewable-energy-sources/) [3](https://www.foxnews.com/science/11-bizarre-sources-for-alternative-energy.amp)
-* Kanser arastirmalari icin kaynak ayirilacak.
+* Kanser araştırmaları için kaynak ayrılacak.
 
 ## Bilişim Bakanlığı
 
-* Bilisim bakanligi kurulacak, alaninda uzman Turk yazilimcilar Turkiye'den veya dunyadan istihdam edilecek.
-* Bakanlik yazilim gelistirmenin yani sira genc nesillere yazilim ogretmek icin stratejiler gelistirip Egitim Bakanligi'yla birlikte calisacak.
+* Bilişim Bakanlığı kurulacak, alanında uzman Türk yazılımcılar Türkiye'den veya yurtdışından getirilerek istihdam edilecek.
+* Bakanlık yazılım geliştirmenin yanı sıra genç nesillere yazılım öğretmek için stratejiler geliştirip Eğitim Bakanlığı'yla birlikte çalışacak.
 * Devletin tum yazilim ve donanim ihtiyacini karsilayacak. Donanim icin Sanayi Bakanligi'yla birlikte calisilacak.
 * Bakanlik, ozel sektordeki gibi cevik (agile) yontemler kullanarak calisacak.
 * Disaridan ucretli/gonullu yazilim sektoru destegi alacak.
