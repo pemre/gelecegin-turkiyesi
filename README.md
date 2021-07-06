@@ -1,8 +1,8 @@
 # Geleceğin Türkiyesi
 
-Geleceğin Türkiyesi, hayal edilen ileri bir Türkiye icin bir oneriler dizisidir. Belki bir gun bir siyasi parti programina alir veya bu degisimlerin eglenceli bicimde anlatilacagi bir video oyun gelistirilir.
+Geleceğin Türkiyesi, hayal edilen ileri bir Türkiye için bir öneriler dizisidir. Belki bir gün bir siyasi parti programına alır veya bu değişimlerin eğlenceli biçimde anlatılacağı bir video oyun geliştirilir.
 
-## DUZENLE
+## DÜZENLE
 
 * Türkçe olmayan harfleri duzelt.
 * ARASTIR: Hayvan haklari kanunu?
@@ -15,7 +15,7 @@ Geleceğin Türkiyesi, hayal edilen ileri bir Türkiye icin bir oneriler dizisid
 
 Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_bakanl%C4%B1klar
 
-| Eski Adi                             | Yeni Adi          | Not |
+| Eski Adı                             | Yeni Adı          | Not    |
 | ------------------------------------ | ----------------- | ------ |
 | Aile ve Sosyal Hizmetler Bakanlığı   | ---               |YAZ|
 | Çalışma ve Sosyal Güvenlik Bakanlığı | Çalışma Bakanlığı ||
@@ -42,6 +42,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Müge Anlı:
   * Program TRT'ye taşınıp kamu statüsü alacak.
   * Sevgi İzi projesine kamu desteği sağlanacak.
+* Tarihi eser kaçakçılığı müebbet hapis cezası ile cezalandırılacak. İşbirliği ile 25 yıla indirilebilecek.
 
 ### FETÖ
 
@@ -67,6 +68,10 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
   * Kanatsız rüzgar türbinleri gibi alternatif enerji üretim yöntemleri araştırılacak. [1](https://www.euronews.com/green/amp/2021/04/02/it-may-look-rude-but-this-vibrating-wind-turbine-is-producing-clean-energy) [2](https://www.opusenergy.com/blog/8-strangest-renewable-energy-sources/) [3](https://www.foxnews.com/science/11-bizarre-sources-for-alternative-energy.amp)
   * Enerji depolama ve pil teknolojileri için araştırma kaynağı ayrılacak.
   * Organik temelli güneş paneli üretimi araştırılacak.
+  * Boğaz akıntılarından elektrik üretimi yapılabilir mi araştırılacak.
+* Jeofizik
+  * Veysi Kurt'un geliştirdiği deprem tahmin cihazı ve ilgili çalışmaları incelenecek ve uygulanabilirse ulusal çapta kullanılacak.
+  * Mevcut rasathaneler geliştirilecek ve sayısı artırılacak.
 * Sağlık
   * SMA için tedavi ve ilaç üretimi araştırmalarına kaynak sağlanacak.
   * Kanser araştırmaları için kaynak ayrılacak.
@@ -80,14 +85,14 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 
 * Bilişim Bakanlığı kurulacak, alanında uzman Türk yazılımcılar Türkiye'den veya yurtdışından getirilerek istihdam edilecek.
 * Bakanlık yazılım geliştirmenin yanı sıra genç nesillere yazılım öğretmek için stratejiler geliştirip Eğitim Bakanlığı'yla birlikte çalışacak.
-* Devletin tum yazilim ve donanim ihtiyacini karsilayacak. Donanim icin Sanayi Bakanligi'yla birlikte calisilacak.
-* Bakanlik, ozel sektordeki gibi cevik (agile) yontemler kullanarak calisacak.
-* Disaridan ucretli/gonullu yazilim sektoru destegi alacak.
-* Tum devlet kurumlari:
-  * Linux temelli bir isletim sistemi kullanacak.
-  * Bilisim Bakanligi tarafindan cagdaslastirilip merkezilestirilecek yazilimlar kullanacak ve taseron sirketlere ihale veremeyecek.
-* E-devlet sistemi modernlestirilecek ve hizlandirilacak.
-  * ACIKLA: DigiD gibi giris uygulamasi ozelligi eklenecek.
+* Devletin tüm yazılım ve donanım ihtiyacını karşılayacak. Donanım için Sanayi Bakanlığı'yla birlikte çalışacak.
+* Bakanlık, özel sektördeki gibi çevik (agile) yöntemler kullanarak çalışacak.
+* Dışarıdan ücretli/gönüllü yazılım sektörü desteği alacak.
+* Tüm devlet kurumları:
+  * Linux temelli bir işletim sistemi kullanacak.
+  * Bilişim Bakanlığı tarafından çağdaşlaştırılıp merkezileştirilen yazılımlar kullanacak ve taşeron şirketlere ihale veremeyecek.
+* E-devlet sistemi modernleştirilecek ve hızlandırılacak.
+  * AÇIKLA: DigiD gibi giriş uygulaması özelliği eklenecek.
 
 ## Çalışma Bakanlığı
 
@@ -95,8 +100,8 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 
 * Son 20 yılda mülakatla alınmış tüm memurlar yeniden sınava tabi tutulacak ve geçemeyenlerin görevine son verilecek.
 * Memurlara her yıl sınav şartı getirilecek (ortak sorular + alan soruları), barajı 2 kere geçemeyenlerin memurlukları alınacak.
-* Mudur, sef, amir... ortalama memurdan daha fazla maas alamayacak.
-* Kamu gorevlileri birden fazla maas alayacak.
+* Müdür, şef, amir... ortalama memurdan daha fazla maaş alamayacak.
+* Kamu görevlileri birden fazla maaş alamayacak.
 
 ## Çevre Bakanlığı
 
@@ -164,6 +169,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
   * Netflix benzeri yayincilik hizmeti sunulacak.
   * Yesilcam: Erler film vb yapim sirketlerinden yayin haklari ve orijinaller alinacak.
   * Turk sinemasina destek verilecek ve ozgun icerikler bu sekilde uretilecek.
+  * Belgesel üretimi desteklenecek.
 * Muzik: Muzik uygulamasi gelistirilecek (Bilişim Bakanlığı ortakligiyla).
   * E-devlet'le giris yapilabilecek, Turk vatandaslarina ucretsiz, kisisel deneyim sunulacak. Yabancilardan ucret alinacak.
   * TRT muzik arsivleri burada olacak.
@@ -201,6 +207,11 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
   * Fiber optik kablo
   * Submarine kablo
   * E-murekkep ekran ve tablet
+  * Rüzgar türbini
+  * İş makineleri
+  * ARAŞTIR: Makine üretimi yapan makineler
+  * Tarım makineleri
+  * Cep telefonu
 * Tek kullanımlık plastik üretimi, satışı ve ithalatı yasaklanacak.
 
 ## Savunma Bakanlığı
@@ -220,8 +231,9 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Demiryollari 350km/s
 * Demir yoluyla birlikte fiber aglar
 * Ulasim icin tek bir ulusal kart gelistirilecek.
-* Ataturk havaalani yeniden acilacak.
+* Atatürk havaalani yeniden acilacak.
 * YHT ve vagon fabrikalari ve bakim tesisleri (+ sanayi & bilisim)
+* Taksiler, dolmuşlar, minibüsler ve otobüsler kamulaştırılacak.
 
 ### Iletisim
 
