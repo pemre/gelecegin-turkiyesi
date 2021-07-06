@@ -61,9 +61,20 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 
 ## Bilim Bakanlığı
 
-* Plastiğin yakılmadan, maliyetine bakılmaksızın, mantar, bakteri, enzim, soğuk plazma pirolizi vb yollarla çözünmesi ve geri dönüştürülmesi için araştırmalar yapılacak. [1](https://www.evrensel.net/haber/364179/plastik-atiklari-yesil-enerjiye-nasil-donusturebiliriz) [2](https://www.bbc.com/turkce/haberler-dunya-43793007.amp) [3](https://bilimvegelecek.com.tr/index.php/2020/04/08/geri-donusumu-zor-plastikleri-sindirebilen-bir-bakteri-turu-kesfedildi/)
-* Kanatsız rüzgar türbinleri gibi alternatif enerji üretim yöntemleri araştırılacak. [1](https://www.euronews.com/green/amp/2021/04/02/it-may-look-rude-but-this-vibrating-wind-turbine-is-producing-clean-energy) [2](https://www.opusenergy.com/blog/8-strangest-renewable-energy-sources/) [3](https://www.foxnews.com/science/11-bizarre-sources-for-alternative-energy.amp)
-* Kanser araştırmaları için kaynak ayrılacak.
+* Çevre
+  * Plastiğin yakılmadan, maliyetine bakılmaksızın, mantar, bakteri, enzim, soğuk plazma pirolizi vb yollarla çözünmesi ve geri dönüştürülmesi için araştırmalar yapılacak. [1](https://www.evrensel.net/haber/364179/plastik-atiklari-yesil-enerjiye-nasil-donusturebiliriz) [2](https://www.bbc.com/turkce/haberler-dunya-43793007.amp) [3](https://bilimvegelecek.com.tr/index.php/2020/04/08/geri-donusumu-zor-plastikleri-sindirebilen-bir-bakteri-turu-kesfedildi/)
+* Enerji
+  * Kanatsız rüzgar türbinleri gibi alternatif enerji üretim yöntemleri araştırılacak. [1](https://www.euronews.com/green/amp/2021/04/02/it-may-look-rude-but-this-vibrating-wind-turbine-is-producing-clean-energy) [2](https://www.opusenergy.com/blog/8-strangest-renewable-energy-sources/) [3](https://www.foxnews.com/science/11-bizarre-sources-for-alternative-energy.amp)
+  * Enerji depolama ve pil teknolojileri için araştırma kaynağı ayrılacak.
+  * Organik temelli güneş paneli üretimi araştırılacak.
+* Sağlık
+  * SMA için tedavi ve ilaç üretimi araştırmalarına kaynak sağlanacak.
+  * Kanser araştırmaları için kaynak ayrılacak.
+* Ulaştırma
+  * Ultra hızlı tüplü taşımacılık (hyperloop, hızyuvar) araştırmaları için kaynak ayrılacak. [1](https://www.nationalgeographic.com.tr/ses-hizinda-tuplu-yolculuk-gercek-oluyor/)
+* Uzay
+  * Gözlemevleri sayısı artırılacak, mevcut olanlar geliştirilecek.
+  * Uzay araştırmaları için kaynak ayrılacak.
 
 ## Bilişim Bakanlığı
 
@@ -114,8 +125,10 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 
 ## Enerji Bakanlığı
 
-* Dalga/denizden elektrik uretmek
-* Daha fazla alternatif enerji kaynagina yatirim yapilacak
+* Dalga/denizden elektrik üretmek için kaynak ayrılacak.
+* Daha fazla alternatif enerji kaynağına yatırım yapılacak.
+* Enerji tesisleri kamulaştırılacak ve ucuzlayacak.
+* Kaçak elektrik kullananlara kamu davası açılacak.
 
 ## Gıda Bakanlığı
 
@@ -131,14 +144,17 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
   * Ambalaj azaltma stratejisi
   * Otomatlar: Yogurt, sut, ekmek...
   * TMO
-* Kooperatifcilik tesvik
-* Tohum bankalari, atalik tohumlari.
+* Kooperatifçilik özendirilecek.
+* Tohum bankaları kurulacak, atalık tohumlar toplanacak.
+* Bambu bitkisinin yetiştirme ve sınai potansiyeli araştırılacak.
+* İpek böceği yetiştiriciliği desteklenecek ve artırılacak.
 
 ## İçişleri Bakanlığı
 
 * Kacaklarin geri gonderilmesi
   * Sinirlarda siki kontrol
   * Kacak calistiran isyerlerini bedelsiz kamulastirma
+* Parayla vatandaşlık kaldırılacak.
 
 ## Kültür Bakanlığı
 
@@ -173,6 +189,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Kanser
 	* Tum kanser hastalarinin tum masraflarini devlet karsilayacak.
 	* Losev kamu destegi alip donusturulecek.
+* SMA hastalarının tüm giderleri devlet tarafından karşılanacak.
 
 ## Sanayi Bakanlığı
 
