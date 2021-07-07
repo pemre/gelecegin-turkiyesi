@@ -14,6 +14,23 @@ Geleceğin Türkiyesi, hayal edilen ileri bir Türkiye için bir öneriler dizis
 * Silkelen stratejisi
 * Ağaç silkeleme stratejisi
 
+## Çok Bakanlıklı Stratejiler
+
+* DED: Dengeli nüfus için küçük kentlere dönüş stratejisi
+* TUT: Tutumluluk
+
+## Hedefler
+
+* Türk Lirası'nın değerinin Avro ve Dolar karşında değerlenmesi
+* Ortalama ömrün uzatılması
+* Mutluluk oranlarının yükseltilmesi
+* Asgari ücretin ve alım gücünün artırılması
+* Temel gıda fiyatlarının azaltılması
+* Devlet kurumlarına güvenin artırılması
+* Yolsuzluğun bitirilmesi
+* Suç oranlarının düşürülmesi
+* Layık olanın devlete çalışması
+
 ## Bakanlık Değişiklikleri
 
 Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_bakanl%C4%B1klar
@@ -70,17 +87,18 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 
 ## Bilim Bakanlığı
 
+* Bilişim
+  * İşlemci üretimi ve bilgi birikimi için kaynak ayrılacak.
 * Çevre
-  * Plastiğin yakılmadan, maliyetine bakılmaksızın, mantar, bakteri, enzim, soğuk plazma pirolizi vb yollarla çözünmesi ve geri dönüştürülmesi için araştırmalar yapılacak. [1](https://www.evrensel.net/haber/364179/plastik-atiklari-yesil-enerjiye-nasil-donusturebiliriz) [2](https://www.bbc.com/turkce/haberler-dunya-43793007.amp) [3](https://bilimvegelecek.com.tr/index.php/2020/04/08/geri-donusumu-zor-plastikleri-sindirebilen-bir-bakteri-turu-kesfedildi/)
+  * Plastiğin yakılmadan, maliyetine bakılmaksızın, mantar, bakteri, enzim, soğuk plazma pirolizi vb yollarla çözünmesi ve geri dönüştürülmesi için araştırmalar yapılacak. [1](https://www.evrensel.net/haber/364179/plastik-atiklari-yesil-enerjiye-nasil-donusturebiliriz) [2](https://www.bbc.com/turkce/haberler-dunya-43793007.amp) [3](https://bilimvegelecek.com.tr/index.php/2020/04/08/geri-donusumu-zor-plastikleri-sindirebilen-bir-bakteri-turu-kesfedildi/) [4](https://www.cumhuriyet.com.tr/haber/turk-bilim-insanlari-boya-ve-plastik-maddeyi-zarar-gormeden-ayristiran-cozucu-gelistirdi-1850370)
   * ARAŞTIR: Gerçek kağıt bardak var mı?
-  * Kenevirin sanayide kullanım alanları araştırılacak.
-* Dil
-  * Türki cumhuriyetlere ve Türki dil konuşan tüm topluluklara dilbilimciler gönderilerek Türk dilleri hakkında veri toplanacak.
+  * Kenevirin sanayide kullanım alanları araştırılacak. [1](https://www.webtekno.com/mucize-bitki-kenevirin-akillara-ziyan-20-kullanim-alani-h62474.html)
 * Enerji
   * Kanatsız rüzgar türbinleri gibi alternatif enerji üretim yöntemleri araştırılacak. [1](https://www.euronews.com/green/amp/2021/04/02/it-may-look-rude-but-this-vibrating-wind-turbine-is-producing-clean-energy) [2](https://www.opusenergy.com/blog/8-strangest-renewable-energy-sources/) [3](https://www.foxnews.com/science/11-bizarre-sources-for-alternative-energy.amp)
   * Enerji depolama ve pil teknolojileri için araştırma kaynağı ayrılacak.
   * Organik temelli güneş paneli üretimi araştırılacak.
   * Boğaz akıntılarından elektrik üretimi yapılabilir mi araştırılacak.
+  * Yalıtım malzemesi üretimi ve araştırılması.
 * Jeofizik
   * Veysi Kurt'un geliştirdiği deprem tahmin cihazı ve ilgili çalışmaları incelenecek ve uygulanabilirse ulusal çapta kullanılacak.
   * Mevcut rasathaneler geliştirilecek ve sayısı artırılacak.
@@ -89,8 +107,6 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Sağlık
   * SMA için tedavi ve ilaç üretimi araştırmalarına kaynak sağlanacak.
   * Kanser araştırmaları için kaynak ayrılacak.
-* Tarih
-  * Devlet arşivleri günümüz Türkçesine ve İngilizceye çevrilecek.
 * Ulaştırma
   * Ultra hızlı tüplü taşımacılık (hyperloop, hızyuvar) araştırmaları için kaynak ayrılacak. [1](https://www.nationalgeographic.com.tr/ses-hizinda-tuplu-yolculuk-gercek-oluyor/)
 * Uzay
@@ -114,11 +130,16 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
   * Hava durumu
   * Getir
   * Uber
+* Herkese 10 GB ücretsiz bulut depolama sağlanacak.
 
 ## Çalışma Bakanlığı
 
 * İşçi tazminatı vermeyen işyeri kamulaştırılacak.
 * Yıl sonunda tazminat birikimini engellemek için işçisini girdi çıktı yapan işyerleri kamulaştırılacak.
+* Kıdem tazminatı eskisi gibi kalacak.
+* 50 yaşında emeklilik kademe kademe getirilecek.
+* Alt taşeronluk yasaklanacak.
+* İki çocuktan fazla çocuk yapanlardan katlanarak fazla vergi alınacak (üçüz dördüz gibi doğal doğumlar hariç).
 
 ### Devlet
 
@@ -138,7 +159,8 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Bez torba/poşet üretimi yapılacak.
 * Ham altın, mermer, maden ihracatı durdurulacak.
 * Tek başına bir çözüm olmasa da küresel ısınmaya karşı ağaçlandırma yapılacak. [1](https://www.bbc.com/turkce/haberler-dunya-57729513)
-* Kamulaştırmalarla büyük şehir parkları açılacak.
+* Kamuda elektrikli araçlar kullanılacak.
+* DED: Kamulaştırmalarla büyük şehir parkları açılacak.
 * İstanbul
   * İstanbul surları onarılacak.
   * Sur içi eski dokusuna kavuşturulacak.
@@ -204,6 +226,8 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
   * Kaçak çalıştıran işyerleri bedelsiz kamulaştırılacak.
 * Parayla vatandaşlık kaldırılacak.
 * Yurtdışında ikamet eden Türk vatandaşları seçimlerde oy kullanamayacak.
+* Boşanma prosedürü kolaylaştırılacak. Tek tarafın rızası yeterli sayılacak.
+* ? İşi olmayan [3-10] büyük kente giriş yapamayacak.
 
 ## Kültür Bakanlığı
 
@@ -224,21 +248,31 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
   * MEB ve Tubitak yayinlari taranacak ve epub/pdf bicimlerinde paylasilacak.
   * Cumhuriyet, Osmanli ve oncesi tum arsivler dijital ortama aktarilacak ve buradan paylasilacak. 
 * Sultanahmet tramvayının titreşimi tarihi eserlere zarar veriyor mu araştırılacak. Duruma göre zarar vermeyecek bir ulaşım yöntemi bulunacak.
-* Ihale usulu devlet kurumlari veya belediyeler tarafindan isletilen veya ihaleyle isletilen tum tarihi yerler (orn. Binbirdirek Sarnicinda dugun vb organizasyonlar yapilmakta) geri alinacak ve muze statusunde korunmaya alinacak. Bir baska ornek, Galata Kulesi müze olacak.
+
+### Dil
+
+* Türki cumhuriyetlere ve Türki dil konuşan tüm topluluklara dilbilimciler gönderilerek Türk dilleri hakkında veri toplanacak.
+
+### Tarih
+
+* İhale usulü devlet kurumları veya belediyeler tarafından işletilen veya ihaleyle işletilen tüm tarihi yerler (örn. Binbirdirek Sarnıcı'nda düğün vb organizasyonlar yapılmakta) geri alınacak ve müze statüsünde korunmaya alınacak. Bir başka örnek, Galata Kulesi müze olacak.
+* Devlet arşivleri günümüz Türkçesine ve İngilizceye çevrilecek.
+* Benzinli ve dizel araba müzeleri kurulacak.
 
 ## Maliye Bakanlığı
 
-* Kademeli vergilendirme yapilacak.
-* Ikiden fazla evi olanlar daha fazla vergi verecek.
-* ATM'ler birlestirilecek, komisyon alinmayacak.
+* Kademeli vergilendirme yapılacak.
+* İkiden fazla evi olanlar daha fazla vergi verecek.
+* Devlet garantili ihaleler sonlandırılacak. Haksız kazanç elde ettiği tespit edilen şirketler kamulaştırılacak.
+* Kamu ihale usulü (taşerona iş verme) sonlandırılacak.
 
 ## Sağlık Bakanlığı
 
-* Sehir hastaneleri bedelsiz kamulastirilacak.
-* Tum hastane ve saglik kurumu yazilimlari Bilisim Bakanligi tarafindan cagdaslastirilip merkezilestirilecek.
+* Şehir hastaneleri bedelsiz kamulaştırılacak.
+* Tüm hastane ve sağlık kurumu yazılımları Bilişim Bakanlığı tarafından çağdaşlaştırılıp merkezileştirilecek.
 * Kanser
-  * Tum kanser hastalarinin tum masraflarini devlet karsilayacak.
-  * Losev kamu destegi alip donusturulecek.
+  * Tüm kanser hastalarının masraflarını devlet karşılayacak.
+  * Lösev kamu desteği alıp dönüştürülecek.
 * SMA hastalarının tüm giderleri devlet tarafından karşılanacak.
 
 ## Sanayi Bakanlığı
@@ -246,16 +280,17 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * ? Etibank, demirbank?
   * Kumaş, kıyafet üretimi
   * Petrol türevi değil pamuklu (bambulu?, ipekli?) ve cilde zarar vermeyen kıyafetler özendirilecek ve üretilecek.
-* Damlama sulama tesisleri kamulastirilacak ve yenileri kurulacak.
+* Damlama sulama tesisleri kamulaştırılacak ve yenileri kurulacak.
 * Kurulacak fabrikalar:
   * Fiber optik kablo
   * Deniz altı kablo
-  * E-murekkep ekran ve tablet
+  * E-mürekkep ekran ve tablet
   * Rüzgar türbini
   * İş makineleri
   * ARAŞTIR: Makine üretimi yapan makineler
   * Tarım makineleri
   * Cep telefonu
+  * TUT: Led lamba
 * Elektrikli araç üretimi yapılacak.
 
 ## Savunma Bakanlığı
@@ -269,20 +304,22 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 ## Ticaret Bakanlığı
 
 * 2030'da yalnızca elektrikli araba satılabilecek.
+* ATM'ler birleştirilecek, komisyon alınmayacak.
 
 ## Ulaştırma ve Altyapı Bakanlığı
 
-* Demiryollari 350km/s
-* Demir yoluyla birlikte fiber aglar
-* Ulasim icin tek bir ulusal kart gelistirilecek.
-* Atatürk havaalani yeniden acilacak.
-* YHT ve vagon fabrikalari ve bakim tesisleri (+ sanayi & bilisim)
+* Hızlı tren demiryolları döşenecek (350km/s).
+* Demir yoluyla birlikte fiber ağlar döşenecek.
+* Ulaşım için tek bir ulusal kart geliştirilecek.
+* Atatürk Havaalanı yeniden açılacak.
+* YHT ve vagon fabrikaları ve bakım tesisleri (+ Sanayi & Bilişim Bakanlığıyla)
 * Taksiler, dolmuşlar, minibüsler ve otobüsler kamulaştırılacak.
+* Taksi plaka sayısı artacak, ücreti azalacak.
 
-### Iletisim
+### İletişim
 
-* Fiberoptik aglar
-* Ayda 120 dakika konusma, 120 sms ve 3GB internet herkese ucretsiz olacak.
+* Türk Telekom ucuz hizmet sunacak.
+* Ayda 120 dakika konuşma, 120 sms ve 3GB internet herkese ücretsiz olacak.
 
 ---
 
