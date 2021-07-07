@@ -10,6 +10,9 @@ Geleceğin Türkiyesi, hayal edilen ileri bir Türkiye için bir öneriler dizis
 * ARASTIR: Pilot mahalle: Ortak yemekhane, camasirhane...
 * ARASTIR: https://www.dogrulukpayi.com/bulten/2021-butce-dagilimi
 * Tüik enflasyon verilerini her şeyi dahil ederek hesaplayacak.
+* Titre ve kendine gel stratejisi
+* Silkelen stratejisi
+* Ağaç silkeleme stratejisi
 
 ## Bakanlık Değişiklikleri
 
@@ -43,6 +46,11 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
   * Program TRT'ye taşınıp kamu statüsü alacak.
   * Sevgi İzi projesine kamu desteği sağlanacak.
 * Tarihi eser kaçakçılığı müebbet hapis cezası ile cezalandırılacak. İşbirliği ile 25 yıla indirilebilecek.
+* Faili meçhul cinayetler ve katliam olarak bilinen bütün davalarla ilgili dosyalar kamuoyuyla paylaşılacak.
+* Sokakta silahla ateş eden düğün konvoycularına 6 yıl indirimsiz hapis cezası verilecek.
+* Düğün konvoyuyla çevreyi sesle ve trafikle rahatsız edenlere 3 yıl indirimsiz hapis cezası verilecek.
+* Sokakta yüksek sesli araba sürenlere 3 yıl hapis cezası verilecek.
+* Uyuşturucu, kaçakçılık, silah, kadın, insan ticareti müebbet hapisle cezalandırılacak.
 
 ### FETÖ
 
@@ -57,13 +65,17 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Satılan orman, kıyı, tarım arazileri incelenip bedelsiz geri alınacak.
 * Özelleştirilen santraller ve su kaynakları bedelsiz kamulaştırılacak.
 * Kanal İstanbul
-	* Hat boyunca spekülatif işlemle yapıldığı için tüm topraklar bedelsiz kamulaştırılacak.
-	* Proje yapanlar, çevre izinleri verenler, siyasi malzeme olarak kullanıp savunan siyasiler, şahsi amaç uğruna kamu zararı vermekten yargılanacak.
+  * Hat boyunca spekülatif işlemle yapıldığı için tüm topraklar bedelsiz kamulaştırılacak.
+  * Proje yapanlar, çevre izinleri verenler, siyasi malzeme olarak kullanıp savunan siyasiler, şahsi amaç uğruna kamu zararı vermekten yargılanacak.
 
 ## Bilim Bakanlığı
 
 * Çevre
   * Plastiğin yakılmadan, maliyetine bakılmaksızın, mantar, bakteri, enzim, soğuk plazma pirolizi vb yollarla çözünmesi ve geri dönüştürülmesi için araştırmalar yapılacak. [1](https://www.evrensel.net/haber/364179/plastik-atiklari-yesil-enerjiye-nasil-donusturebiliriz) [2](https://www.bbc.com/turkce/haberler-dunya-43793007.amp) [3](https://bilimvegelecek.com.tr/index.php/2020/04/08/geri-donusumu-zor-plastikleri-sindirebilen-bir-bakteri-turu-kesfedildi/)
+  * ARAŞTIR: Gerçek kağıt bardak var mı?
+  * Kenevirin sanayide kullanım alanları araştırılacak.
+* Dil
+  * Türki cumhuriyetlere ve Türki dil konuşan tüm topluluklara dilbilimciler gönderilerek Türk dilleri hakkında veri toplanacak.
 * Enerji
   * Kanatsız rüzgar türbinleri gibi alternatif enerji üretim yöntemleri araştırılacak. [1](https://www.euronews.com/green/amp/2021/04/02/it-may-look-rude-but-this-vibrating-wind-turbine-is-producing-clean-energy) [2](https://www.opusenergy.com/blog/8-strangest-renewable-energy-sources/) [3](https://www.foxnews.com/science/11-bizarre-sources-for-alternative-energy.amp)
   * Enerji depolama ve pil teknolojileri için araştırma kaynağı ayrılacak.
@@ -72,9 +84,13 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Jeofizik
   * Veysi Kurt'un geliştirdiği deprem tahmin cihazı ve ilgili çalışmaları incelenecek ve uygulanabilirse ulusal çapta kullanılacak.
   * Mevcut rasathaneler geliştirilecek ve sayısı artırılacak.
+* Meteoroloji
+  * Meteoroloji merkezleri geliştirilecek ve gerekirse sayısı artırılarak anlık tahmin başarısı en üst düzeye çıkarılacak.
 * Sağlık
   * SMA için tedavi ve ilaç üretimi araştırmalarına kaynak sağlanacak.
   * Kanser araştırmaları için kaynak ayrılacak.
+* Tarih
+  * Devlet arşivleri günümüz Türkçesine ve İngilizceye çevrilecek.
 * Ulaştırma
   * Ultra hızlı tüplü taşımacılık (hyperloop, hızyuvar) araştırmaları için kaynak ayrılacak. [1](https://www.nationalgeographic.com.tr/ses-hizinda-tuplu-yolculuk-gercek-oluyor/)
 * Uzay
@@ -93,8 +109,16 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
   * Bilişim Bakanlığı tarafından çağdaşlaştırılıp merkezileştirilen yazılımlar kullanacak ve taşeron şirketlere ihale veremeyecek.
 * E-devlet sistemi modernleştirilecek ve hızlandırılacak.
   * AÇIKLA: DigiD gibi giriş uygulaması özelliği eklenecek.
+* Ulusal uygulamalar
+  * Nasıl giderim?
+  * Hava durumu
+  * Getir
+  * Uber
 
 ## Çalışma Bakanlığı
+
+* İşçi tazminatı vermeyen işyeri kamulaştırılacak.
+* Yıl sonunda tazminat birikimini engellemek için işçisini girdi çıktı yapan işyerleri kamulaştırılacak.
 
 ### Devlet
 
@@ -102,13 +126,28 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Memurlara her yıl sınav şartı getirilecek (ortak sorular + alan soruları), barajı 2 kere geçemeyenlerin memurlukları alınacak.
 * Müdür, şef, amir... ortalama memurdan daha fazla maaş alamayacak.
 * Kamu görevlileri birden fazla maaş alamayacak.
+* Birden fazla maaş alanların malvarlığına el konulacak.
+* İşe gelmeden maaş alanların malvarlığına el konulacak.
+* Milletvekili maaşı asgari ücret olacak. Tüm sağlıkla ilgili ve ekonomik ayrıcalıkları kaldırılacak.
 
 ## Çevre Bakanlığı
 
-* Yabanciya toprak ve ev satisi iptal
-* Plastik sise azaltma stratejisi
-* Bez torba/poset uretimi tesvik
-* Ham altin, mermer, maden ihracati durdurulacak.
+* Yabancıya toprak ve ev satışı yasaklanacak.
+* Plastik şişe azaltma stratejisi
+  * Tek kullanımlık plastik üretimi, satışı ve ithalatı yasaklanacak.
+* Bez torba/poşet üretimi yapılacak.
+* Ham altın, mermer, maden ihracatı durdurulacak.
+* Tek başına bir çözüm olmasa da küresel ısınmaya karşı ağaçlandırma yapılacak. [1](https://www.bbc.com/turkce/haberler-dunya-57729513)
+* Kamulaştırmalarla büyük şehir parkları açılacak.
+* İstanbul
+  * İstanbul surları onarılacak.
+  * Sur içi eski dokusuna kavuşturulacak.
+  * Ayasofya müze olacak.
+  * İstanbul'daki eski sinemalar yeniden açılacak.
+  * Dolgu alanlar (Yenikapı toplanma alanı) yıkılacak.
+  * ? İstanbul, 0-1... 8-9 plakalar hafta içi sokağa çıkmayacak.
+  * Kanal İstanbul durdurulacak.
+* Musluk sularının tekrar içilebilmesi için altyapı iyileştirmeleri yapılacak.
 
 ## Dışişleri Bakanlığı
 
@@ -116,7 +155,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 
 ## Eğitim Bakanlığı
 
-* Ilkokularda ucretsiz yemek ve sut
+* Tüm okullarda ucretsiz yemek ve sut
 * ? Finlandiya egitim sistemi ?
   * ? Zambaklar ulkesi ?
 * Tum ogrenciler yaz-kis sehirlerarasi tatil koylerine gonderilecek:
@@ -127,6 +166,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Koy enstituleri modeli yeniden ele alinacak.
 * Sibyan mektepleri ve benzerleri kapatilacak.
 * İmam Hatip lisesi yapılan okullar eski haline dönüştürülecek.
+* Bütün özel yurtlar kamulaştırılacak ve devlet yurtlarının sayısı artırılacak.
 
 ## Enerji Bakanlığı
 
@@ -137,37 +177,41 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 
 ## Gıda Bakanlığı
 
-* Sigara uretimi icin kullanilan tutun tarlalari donusturulecek. Sigara haric medikal vs sebeplerle yapilan uretim devam edecek.
-* GDO uretimi ve ithalati yasaklanacak.
-* Palm yagi
-* Glikoz surubu
-* Seker sinirlandirma
-	* Az şekerli, üzümlü, yer fıstıklı vb helvalar üretilecek.
+* Sigara üretimi için kullanılan tütün tarlaları dönüştürülecek. Sigara hariç medikal vs sebeplerle yapılan üretim devam edecek.
+* Yasaklanacaklar
+  * GDO üretimi ve ithalatı
+  * Palm yağı
+  * Glikoz/fruktoz şurubu
+* Şeker kullanımının sınırlandırılması
+  * Az şekerli, üzümlü, yer fıstıklı vb helvalar üretilecek.
 * Susam ihracatı durdurulacak, kaliteli susam iç pazarda tüketilecek.
-* Halk uretim ve satis kurumlari kurulacak: Yogurt, peynir, ekmek, balik, sut, et, sebze kurumu...
-  * Acik satis: Kuruyemis, yogurt...
+* Halk üretim ve satış kurumları kurulacak: Yoğurt, peynir, ekmek, balık, süt, et, sebze kurumu...
+  * Ambalajsız, açık, ucuz; yoğurt, süt, ekmek, çay, kahve, simit, poğaça, börek, su, kuruyemiş, sebze, meyve otomatları üretilip ülke genelinde dağıtılacak.
   * Ambalaj azaltma stratejisi
-  * Otomatlar: Yogurt, sut, ekmek...
   * TMO
 * Kooperatifçilik özendirilecek.
 * Tohum bankaları kurulacak, atalık tohumlar toplanacak.
 * Bambu bitkisinin yetiştirme ve sınai potansiyeli araştırılacak.
 * İpek böceği yetiştiriciliği desteklenecek ve artırılacak.
+* Ülke genelinde "meclis lokantaları" açılacak. Halka ucuz günlük yemek sağlanacak.
+* Arıcılık teşvik edilecek ve şekersiz bal üretimi yapılacak.
+* Kenevir üretimi artırılacak.
 
 ## İçişleri Bakanlığı
 
-* Kacaklarin geri gonderilmesi
-  * Sinirlarda siki kontrol
-  * Kacak calistiran isyerlerini bedelsiz kamulastirma
+* Kaçakların geri gönderilmesi
+  * Sınırlarda sıkı denetim
+  * Kaçak çalıştıran işyerleri bedelsiz kamulaştırılacak.
 * Parayla vatandaşlık kaldırılacak.
+* Yurtdışında ikamet eden Türk vatandaşları seçimlerde oy kullanamayacak.
 
 ## Kültür Bakanlığı
 
 * Sinema: Dijital yayincilik uygulamasi gelistirilecek (Bilişim Bakanlığı ortakligiyla).
-  * E-devlet'le giris yapilabilecek, Turk vatandaslarina ucretsiz, kisisel deneyim sunulacak. Yabancilardan ucret alinacak.
+  * E-devlet'le giriş yapılabilecek, Turk vatandaslarina ucretsiz, kisisel deneyim sunulacak. Yabancilardan ucret alinacak.
   * TRT televizyon ve sinema arsivleri ve canli yayinlari burada olacak.
   * Netflix benzeri yayincilik hizmeti sunulacak.
-  * Yesilcam: Erler film vb yapim sirketlerinden yayin haklari ve orijinaller alinacak.
+  * Yeşilçam: Erler film vb yapim sirketlerinden yayin haklari ve orijinaller alinacak.
   * Turk sinemasina destek verilecek ve ozgun icerikler bu sekilde uretilecek.
   * Belgesel üretimi desteklenecek.
 * Muzik: Muzik uygulamasi gelistirilecek (Bilişim Bakanlığı ortakligiyla).
@@ -193,26 +237,26 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Sehir hastaneleri bedelsiz kamulastirilacak.
 * Tum hastane ve saglik kurumu yazilimlari Bilisim Bakanligi tarafindan cagdaslastirilip merkezilestirilecek.
 * Kanser
-	* Tum kanser hastalarinin tum masraflarini devlet karsilayacak.
-	* Losev kamu destegi alip donusturulecek.
+  * Tum kanser hastalarinin tum masraflarini devlet karsilayacak.
+  * Losev kamu destegi alip donusturulecek.
 * SMA hastalarının tüm giderleri devlet tarafından karşılanacak.
 
 ## Sanayi Bakanlığı
 
-* ? Etibank, demirbank ?
-  * Kumas, kiyafet uretimi
+* ? Etibank, demirbank?
+  * Kumaş, kıyafet üretimi
+  * Petrol türevi değil pamuklu (bambulu?, ipekli?) ve cilde zarar vermeyen kıyafetler özendirilecek ve üretilecek.
 * Damlama sulama tesisleri kamulastirilacak ve yenileri kurulacak.
-* Mariu uretimi artirilacak
 * Kurulacak fabrikalar:
   * Fiber optik kablo
-  * Submarine kablo
+  * Deniz altı kablo
   * E-murekkep ekran ve tablet
   * Rüzgar türbini
   * İş makineleri
   * ARAŞTIR: Makine üretimi yapan makineler
   * Tarım makineleri
   * Cep telefonu
-* Tek kullanımlık plastik üretimi, satışı ve ithalatı yasaklanacak.
+* Elektrikli araç üretimi yapılacak.
 
 ## Savunma Bakanlığı
 
@@ -224,7 +268,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 
 ## Ticaret Bakanlığı
 
-...
+* 2030'da yalnızca elektrikli araba satılabilecek.
 
 ## Ulaştırma ve Altyapı Bakanlığı
 
