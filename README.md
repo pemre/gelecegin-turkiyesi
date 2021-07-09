@@ -90,7 +90,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Bilişim
   * İşlemci üretimi ve bilgi birikimi için kaynak ayrılacak.
 * Çevre
-  * Plastiğin yakılmadan, maliyetine bakılmaksızın, mantar, bakteri, enzim, soğuk plazma pirolizi vb yollarla çözünmesi ve geri dönüştürülmesi için araştırmalar yapılacak. [1](https://www.evrensel.net/haber/364179/plastik-atiklari-yesil-enerjiye-nasil-donusturebiliriz) [2](https://www.bbc.com/turkce/haberler-dunya-43793007.amp) [3](https://bilimvegelecek.com.tr/index.php/2020/04/08/geri-donusumu-zor-plastikleri-sindirebilen-bir-bakteri-turu-kesfedildi/) [4](https://www.cumhuriyet.com.tr/haber/turk-bilim-insanlari-boya-ve-plastik-maddeyi-zarar-gormeden-ayristiran-cozucu-gelistirdi-1850370)
+  * Plastiğin yakılmadan, maliyetine bakılmaksızın, mantar, bakteri, enzim, soğuk plazma pirolizi vb yollarla çözünmesi ve geri dönüştürülmesi için araştırmalar yapılacak. [1](https://www.evrensel.net/haber/364179/plastik-atiklari-yesil-enerjiye-nasil-donusturebiliriz) [2](https://www.bbc.com/turkce/haberler-dunya-43793007.amp) [3](https://bilimvegelecek.com.tr/index.php/2020/04/08/geri-donusumu-zor-plastikleri-sindirebilen-bir-bakteri-turu-kesfedildi/) [4](https://www.cumhuriyet.com.tr/haber/turk-bilim-insanlari-boya-ve-plastik-maddeyi-zarar-gormeden-ayristiran-cozucu-gelistirdi-1850370) [5](https://www.webtekno.com/inekler-plastik-atiklardan-kurtulusun-anahtari-olabilir-h111842.html)
   * ARAŞTIR: Gerçek kağıt bardak var mı?
   * Kenevirin sanayide kullanım alanları araştırılacak. [1](https://www.webtekno.com/mucize-bitki-kenevirin-akillara-ziyan-20-kullanim-alani-h62474.html)
 * Enerji
@@ -105,8 +105,9 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Meteoroloji
   * Meteoroloji merkezleri geliştirilecek ve gerekirse sayısı artırılarak anlık tahmin başarısı en üst düzeye çıkarılacak.
 * Sağlık
-  * SMA için tedavi ve ilaç üretimi araştırmalarına kaynak sağlanacak.
-  * Kanser araştırmaları için kaynak ayrılacak.
+  * Pek çok sağlık sorunu için tedavi ve ilaç üretimi araştırmalarına kaynak sağlanacak:
+    * Kanser, SMA, AIDS, Alzheimer, gelişmiş protezler...
+  * Tüm ülkelerle ortak araştırma teşvik edilecek (örn. Küba ile bilgi ve kaynak paylaşımı).
 * Ulaştırma
   * Ultra hızlı tüplü taşımacılık (hyperloop, hızyuvar) araştırmaları için kaynak ayrılacak. [1](https://www.nationalgeographic.com.tr/ses-hizinda-tuplu-yolculuk-gercek-oluyor/)
 * Uzay
@@ -140,6 +141,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * 50 yaşında emeklilik kademe kademe getirilecek.
 * Alt taşeronluk yasaklanacak.
 * İki çocuktan fazla çocuk yapanlardan katlanarak fazla vergi alınacak (üçüz dördüz gibi doğal doğumlar hariç).
+* Haftalık çalışma süresi, kademeli olarak önce 40 saate, ardından 35 saate indirilecektir.
 
 ### Devlet
 
@@ -158,6 +160,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
   * Tek kullanımlık plastik üretimi, satışı ve ithalatı yasaklanacak.
 * Bez torba/poşet üretimi yapılacak.
 * Ham altın, mermer, maden ihracatı durdurulacak.
+* Yabancı şirketlere verilen tüm maden işletme ruhsatları iptal edilecek.
 * Tek başına bir çözüm olmasa da küresel ısınmaya karşı ağaçlandırma yapılacak. [1](https://www.bbc.com/turkce/haberler-dunya-57729513)
 * Kamuda elektrikli araçlar kullanılacak.
 * DED: Kamulaştırmalarla büyük şehir parkları açılacak.
@@ -170,6 +173,8 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
   * ? İstanbul, 0-1... 8-9 plakalar hafta içi sokağa çıkmayacak.
   * Kanal İstanbul durdurulacak.
 * Musluk sularının tekrar içilebilmesi için altyapı iyileştirmeleri yapılacak.
+* Doğal hayatı tahrip edenlere ağır cezalar verilecek. Örn. Dipsiz Göl'de define arama ruhsatı verenler ve kazı yapanlar doğal hayatı tahrip etmekten yargılanacak. [1](https://odatv4.com/tum-cabalara-ragmen-olmadi-mahvettiler-09072121_m.html)
+* Plastik atık ithalatı yasaklanacak.
 
 ## Dışişleri Bakanlığı
 
@@ -189,6 +194,9 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Sibyan mektepleri ve benzerleri kapatilacak.
 * İmam Hatip lisesi yapılan okullar eski haline dönüştürülecek.
 * Bütün özel yurtlar kamulaştırılacak ve devlet yurtlarının sayısı artırılacak.
+* Din dersleri seçmeli olacak ve tüm din ve mezhepler ve inançları eşit ve tarafsız olarak anlatacak.
+* Tüm Kuran kursları önce Eğitim Bakanlığına bağlanıp kayıt altına alınacak ve ardından kapatılacak.
+* Kıyafetinden çantasına öğrencilerin tüm ihtiyaçları devlet tarafından karşılanacak.
 
 ## Enerji Bakanlığı
 
@@ -248,6 +256,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
   * MEB ve Tubitak yayinlari taranacak ve epub/pdf bicimlerinde paylasilacak.
   * Cumhuriyet, Osmanli ve oncesi tum arsivler dijital ortama aktarilacak ve buradan paylasilacak. 
 * Sultanahmet tramvayının titreşimi tarihi eserlere zarar veriyor mu araştırılacak. Duruma göre zarar vermeyecek bir ulaşım yöntemi bulunacak.
+* Televizyonlarda yayımlanan kötümser haber sayısı kısıtlanacak. [1](https://www.webtekno.com/iyimser-olmak-beyninizi-nasil-etkiliyor-h111759.html)
 
 ### Dil
 
@@ -258,6 +267,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * İhale usulü devlet kurumları veya belediyeler tarafından işletilen veya ihaleyle işletilen tüm tarihi yerler (örn. Binbirdirek Sarnıcı'nda düğün vb organizasyonlar yapılmakta) geri alınacak ve müze statüsünde korunmaya alınacak. Bir başka örnek, Galata Kulesi müze olacak.
 * Devlet arşivleri günümüz Türkçesine ve İngilizceye çevrilecek.
 * Benzinli ve dizel araba müzeleri kurulacak.
+* Prof. Dr. Semavi Eyice için Fatih civarında belediye tarafından tahsis edilen köşk, müze yapılacak ve Eyice'nin satılan mirası geri alınacak. [1](https://odatv4.com/unlu-ismin-butun-tarihini-sattilar-07072146_m.html)
 
 ## Maliye Bakanlığı
 
@@ -265,15 +275,19 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * İkiden fazla evi olanlar daha fazla vergi verecek.
 * Devlet garantili ihaleler sonlandırılacak. Haksız kazanç elde ettiği tespit edilen şirketler kamulaştırılacak.
 * Kamu ihale usulü (taşerona iş verme) sonlandırılacak.
+* Tüm kamu bankaları birleştirilecek.
+* Dövizle veya lira ile yapılan tüm ihaleler iptal edilip öncelikle devlet tarafından yapım denenecek. İlk aşamada devlet yapmıyorsa bile ihale lira ile yapılacak.
 
 ## Sağlık Bakanlığı
 
 * Şehir hastaneleri bedelsiz kamulaştırılacak.
+* Kapatılan devlet ve askeri hastaneler açılacak.
 * Tüm hastane ve sağlık kurumu yazılımları Bilişim Bakanlığı tarafından çağdaşlaştırılıp merkezileştirilecek.
 * Kanser
   * Tüm kanser hastalarının masraflarını devlet karşılayacak.
   * Lösev kamu desteği alıp dönüştürülecek.
 * SMA hastalarının tüm giderleri devlet tarafından karşılanacak.
+* A'dan Z'ye tüm sağlık hizmetleri ücretsiz olacak.
 
 ## Sanayi Bakanlığı
 
@@ -292,6 +306,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
   * Cep telefonu
   * TUT: Led lamba
 * Elektrikli araç üretimi yapılacak.
+* Otomatik prefabrik ev üretim tesisleri kurulacak. [1](https://www.sozcu.com.tr/2021/teknoloji/mali-mulku-satan-elon-musk-yeni-hayati-38-metrekarelik-prefabrik-evde-yasiyor-6525635)
 
 ## Savunma Bakanlığı
 
@@ -304,7 +319,8 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 ## Ticaret Bakanlığı
 
 * 2030'da yalnızca elektrikli araba satılabilecek.
-* ATM'ler birleştirilecek, komisyon alınmayacak.
+* TUT: ATM'ler birleştirilecek, komisyon alınmayacak.
+* TUT: Tüm bankalar ortak POS cihazı kullanacak.
 
 ## Ulaştırma ve Altyapı Bakanlığı
 
