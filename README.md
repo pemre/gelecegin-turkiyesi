@@ -189,20 +189,30 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 
 ## Eğitim Bakanlığı
 
-* Tüm okullarda ucretsiz yemek ve sut
-* ? Finlandiya egitim sistemi ?
-  * ? Zambaklar ulkesi ?
-* Tum ogrenciler yaz-kis sehirlerarasi tatil koylerine gonderilecek:
-  * Farkli illerden, farkli ogretmenlerle.
-  * Tarim, hayvancilik, teknoloji, spor, sanat
-* Her okula havuz ve spor salonu: Kompleks, icinde olanlar set olarak belirlenebilir, spor aletleri, m2...
-* Ogrencilere ucretsiz e-kagit tablet dagitilacak.
-* Koy enstituleri modeli yeniden ele alinacak.
-* Sibyan mektepleri ve benzerleri kapatilacak.
-* İmam Hatip lisesi yapılan okullar eski haline dönüştürülecek.
+* Başta Finlandiya olmak üzere (bkz.[Beyaz Zambaklar Ülkesinde](https://tr.m.wikipedia.org/wiki/Beyaz_Zambaklar_%C3%9Clkesinde) tüm dünyadan eğitim sistemler incelenecek ve çağdaş bir eğitim düzeni oluşturulacak. Öğretmenlerin dönüşümü, yetiştirilmesi ve maddi manevi desteklenmesi de planın bir parçası olacak. Sınav odaklılık bırakılıp sağlıklı, yetenekli ve özgüvenli birey yetiştirmek hedeflenecek. [1](https://www.infofinland.fi/tr/finlandiya-da-ya-am/e-itim/fin-e-itim-sistemi)
+  * Eğitimde 1 + 9 + 4 sistemine geçilecek: 1 yıl okul öncesi eğitim, 9 yıl temel eğitim, 4 yıl ikinci derece eğitimden oluşacak (okul tipi öğrenci başarısına göre daha kısa olabilir). Zorunlu eğitim 14 yıla çıkartılacak.
+  * Tüm kademeler
+    * Erken eğitim
+    * Okul öncesi eğitim
+    * Temel eğitim
+    * İkinci derece eğitim
+      * Lise
+      * Meslek eğitimi
+    * Yüksek eğitim
+      * Meslek yüksekokulları
+      * Üniversiteler
+* Okul kantinleri okul kooperatifi tarafından öğrenci ve öğretmenlerce işletilecek. Ücretsiz, sağlıklı yemek, sebze meyve ve süt verilecek.
+* Tüm öğrenciler yaz-kış şehirler arası tatil köylerine gönderilecek:
+  * Farklı illerden, farklı öğretmenlerle...
+  * Tarım, hayvancılık, teknoloji, spor, sanat konularıyla...
+* Her okula havuz ve spor salonu: Kompleks, içinde olanlar set olarak belirlenecek: Örn. spor aletleri, metre karesi vs...
+* Öğrencilere ücretsiz e-kağıt tablet dağıtılacak.
+* Köy enstitüleri modeli yeniden ele alınacak.
+* Sıbyan mektepleri ve benzerleri kapatılacak.
+* İmam hatip lisesi yapılan okullar eski haline dönüştürülecek.
 * Bütün özel yurtlar kamulaştırılacak ve devlet yurtlarının sayısı artırılacak.
 * Din dersleri seçmeli olacak ve tüm din ve mezhepler ve inançları eşit ve tarafsız olarak anlatacak.
-* Tüm Kuran kursları önce Eğitim Bakanlığına bağlanıp kayıt altına alınacak ve ardından kapatılacak.
+* Kuran kursları önce Eğitim Bakanlığına bağlanıp kayıt altına alınacak ve ardından kapatılacak.
 * Kıyafetinden çantasına öğrencilerin tüm ihtiyaçları devlet tarafından karşılanacak.
 
 ## Enerji Bakanlığı
