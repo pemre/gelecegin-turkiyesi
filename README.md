@@ -22,7 +22,6 @@ Geleceğin Türkiyesi, hayal edilen ileri bir Türkiye için bir öneriler dizis
 ## Hedefler
 
 * Türk Lirası'nın değerinin Avro ve Dolar karşında değerlenmesi
-* Ortalama ömrün uzatılması
 * Mutluluk oranlarının yükseltilmesi
 * Asgari ücretin ve alım gücünün artırılması
 * Temel gıda fiyatlarının azaltılması
@@ -30,6 +29,9 @@ Geleceğin Türkiyesi, hayal edilen ileri bir Türkiye için bir öneriler dizis
 * Yolsuzluğun bitirilmesi
 * Suç oranlarının düşürülmesi
 * Layık olanın devlete çalışması
+* Sağlık
+  * Sağlık kurumlarına başvuran hasta sayısının azalması
+  * Ortalama ömrün uzatılması
 
 ## Bakanlık Değişiklikleri
 
@@ -176,6 +178,11 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Doğal hayatı tahrip edenlere ağır cezalar verilecek. Örn. Dipsiz Göl'de define arama ruhsatı verenler ve kazı yapanlar doğal hayatı tahrip etmekten yargılanacak. [1](https://odatv4.com/tum-cabalara-ragmen-olmadi-mahvettiler-09072121_m.html)
 * Plastik atık ithalatı yasaklanacak.
 
+### Hayvan hakları
+
+* Hayvan barınakları artırılacak. Ulusal "alo barınak" hattıyla tüm sokak hayvanları toplanıp kısırlaştırılacak ve barınaklarda bakılacak. Çok sayıda veteriner ve gönüllü istihdam edilecek.
+* Tüm evcil hayvanlara çip takılıp aşı karnesi verilecek. Hayvanını sokağa bırakanlar cezalandırılacak.
+
 ## Dışişleri Bakanlığı
 
 ...
@@ -305,7 +312,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
   * Tarım makineleri
   * Cep telefonu
   * TUT: Led lamba
-* Elektrikli araç üretimi yapılacak.
+* Ucuz elektrikli araç üretimi yapılacak. [1](https://www.bbc.com/turkce/haberler-dunya-56191840)
 * Otomatik prefabrik ev üretim tesisleri kurulacak. [1](https://www.sozcu.com.tr/2021/teknoloji/mali-mulku-satan-elon-musk-yeni-hayati-38-metrekarelik-prefabrik-evde-yasiyor-6525635)
 
 ## Savunma Bakanlığı
