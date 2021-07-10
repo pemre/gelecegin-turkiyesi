@@ -177,6 +177,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Musluk sularının tekrar içilebilmesi için altyapı iyileştirmeleri yapılacak.
 * Doğal hayatı tahrip edenlere ağır cezalar verilecek. Örn. Dipsiz Göl'de define arama ruhsatı verenler ve kazı yapanlar doğal hayatı tahrip etmekten yargılanacak. [1](https://odatv4.com/tum-cabalara-ragmen-olmadi-mahvettiler-09072121_m.html)
 * Plastik atık ithalatı yasaklanacak.
+* Özel çevre koruma bölgeleri, milli parklar, yaban hayatı koruma ve geliştirme sahaları, arkeolojik, doğal, tarihi, kentsel sit alanlarında ve tarım arazilerinde madencilik yapılamayacak. [1](https://www.cumhuriyet.com.tr/haber/chpden-maden-sahalarini-degistiren-kanun-teklifi-1849752)
 
 ### Hayvan hakları
 
@@ -185,7 +186,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 
 ## Dışişleri Bakanlığı
 
-...
+* Çin'in asimilasyon politikaları deşifre edilip uluslararası baskı kurulacak. 1 [Sincan yeniden eğitim kampları](https://tr.m.wikipedia.org/wiki/Sincan_yeniden_eğitim_kampları) [2](https://www.bbc.com/turkce/haberler-turkiye-55922214)
 
 ## Eğitim Bakanlığı
 
@@ -217,7 +218,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 
 ## Enerji Bakanlığı
 
-* Dalga/denizden elektrik üretmek için kaynak ayrılacak.
+* Dalga/denizden elektrik üretmek için kaynak ayrılacak. [1](https://news.climate.columbia.edu/2017/02/14/tapping-into-ocean-power/)
 * Daha fazla alternatif enerji kaynağına yatırım yapılacak.
 * Enerji tesisleri kamulaştırılacak ve ucuzlayacak.
 * Kaçak elektrik kullananlara kamu davası açılacak.
@@ -285,6 +286,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Devlet arşivleri günümüz Türkçesine ve İngilizceye çevrilecek.
 * Benzinli ve dizel araba müzeleri kurulacak.
 * Prof. Dr. Semavi Eyice için Fatih civarında belediye tarafından tahsis edilen köşk, müze yapılacak ve Eyice'nin satılan mirası geri alınacak. [1](https://odatv4.com/unlu-ismin-butun-tarihini-sattilar-07072146_m.html)
+* "Eşkıya dünyaya hükümdar olmaz" müzesi açılacak. Müzede geçmişten günümüze eşkıyalık, zorbalık, yolsuzluk yapan siyasi figürler ve onlara karşı mücadele eden isimler sergilenecek.
 
 ## Maliye Bakanlığı
 
@@ -294,6 +296,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Kamu ihale usulü (taşerona iş verme) sonlandırılacak.
 * Tüm kamu bankaları birleştirilecek.
 * Dövizle veya lira ile yapılan tüm ihaleler iptal edilip öncelikle devlet tarafından yapım denenecek. İlk aşamada devlet yapmıyorsa bile ihale lira ile yapılacak.
+* Elmas, pırlanta, yat, tekne gibi lüks ürünlerden çok yüksek vergiler alınacak.
 
 ## Sağlık Bakanlığı
 
@@ -324,6 +327,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
   * TUT: Led lamba
 * Ucuz elektrikli araç üretimi yapılacak. [1](https://www.bbc.com/turkce/haberler-dunya-56191840)
 * Otomatik prefabrik ev üretim tesisleri kurulacak. [1](https://www.sozcu.com.tr/2021/teknoloji/mali-mulku-satan-elon-musk-yeni-hayati-38-metrekarelik-prefabrik-evde-yasiyor-6525635)
+* Plastik diş fırçası yerine doğa dostu biyobozunur fırçalar üretilecek. [1](https://www.kickstarter.com/projects/goodwell/be-the-first-battery-free-powered-toothbrush) [2](https://www.milliyet.com.tr/emlak/cevreye-dost-akilli-dis-fircasi-be-64072)
 
 ## Savunma Bakanlığı
 
@@ -345,7 +349,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Demir yoluyla birlikte fiber ağlar döşenecek.
 * Ulaşım için tek bir ulusal kart geliştirilecek.
 * Atatürk Havaalanı yeniden açılacak.
-* YHT ve vagon fabrikaları ve bakım tesisleri (+ Sanayi & Bilişim Bakanlığıyla)
+* YHT ve vagon fabrikaları ve bakım tesisleri kurulacak. (+ Sanayi & Bilişim Bakanlığıyla) [1](https://www.cumhuriyet.com.tr/haber/demir-yollarinda-tek-kisilik-hakimiyet-30a-yakin-firma-harekete-gecti-1848200)
 * Taksiler, dolmuşlar, minibüsler ve otobüsler kamulaştırılacak.
 * Taksi plaka sayısı artacak, ücreti azalacak.
 
