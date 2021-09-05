@@ -37,21 +37,27 @@ Geleceğin Türkiyesi, hayal edilen ileri bir Türkiye için bir öneriler dizis
 
 Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_bakanl%C4%B1klar
 
-| Eski Adı                             | Yeni Adı          | Not    |
-| ------------------------------------ | ----------------- | ------ |
-| Aile ve Sosyal Hizmetler Bakanlığı   | ---               |YAZ|
-| Çalışma ve Sosyal Güvenlik Bakanlığı | Çalışma Bakanlığı ||
-| Çevre ve Şehircilik Bakanlığı        | Çevre Bakanlığı   ||
-| Enerji ve Tabii Kaynaklar Bakanlığı  | Enerji Bakanlığı  | Tabii Kaynaklar bolumu Cevre Bakanligi'na baglanacak. |
-| Gençlik ve Spor Bakanlığı            | Spor Bakanlığı    ||
-| Hazine ve Maliye Bakanlığı           | Maliye Bakanlığı  ||
-| Kültür ve Turizm Bakanlığı           | Kültür Bakanlığı  ||
-| Milli Eğitim Bakanlığı               | Eğitim Bakanlığı  ||
-| Milli Savunma Bakanlığı              | Savunma Bakanlığı ||
-| Sanayi ve Teknoloji Bakanlığı        | Sanayi Bakanlığı  ||
-| Tarım ve Orman Bakanlığı             | Gıda Bakanlığı    ||
-| ---                                  | Bilim Bakanlığı   | Yeni bakanlik |
-| ---                                  | Bilişim Bakanlığı | Yeni bakanlik |
+| Bakanlık            | Kısaltma | Eski Adı                             | Not |
+| ------------------- | -------- | ------------------------------------ | --- |
+| Adalet Bakanlığı    | AB       | Adalet Bakanlığı                     | Değişiklik yok |
+| Bilim Bakanlığı     | BB       | ---                                  | Yeni bakanlık |
+| Bilişim Bakanlığı   | BŞB      | ---                                  | Yeni bakanlık |
+| Çalışma Bakanlığı   | ÇB       | Çalışma ve Sosyal Güvenlik Bakanlığı | İsim kısaltılacak |
+| Çevre Bakanlığı     | ÇEB      | Çevre ve Şehircilik Bakanlığı        | İsim kısaltılacak |
+| Dışişleri Bakanlığı | DB       | Dışişleri Bakanlığı                  | Değişiklik yok |
+| Eğitim Bakanlığı    | MEB      | Milli Eğitim Bakanlığı               | İsim kısaltılacak |
+| Enerji Bakanlığı    | EB       | Enerji ve Tabii Kaynaklar Bakanlığı  | Tabii Kaynaklar görevleri Çevre Bakanlığı'na devredilecek |
+| Gıda Bakanlığı      | GB       | Tarım ve Orman Bakanlığı             | Orman görevleri Çevre Bakanlığı'na devredilecek |
+| İçişleri Bakanlığı  | İB       | İçişleri Bakanlığı                   | Değişiklik yok |
+| Kültür Bakanlığı    | KB       | Kültür ve Turizm Bakanlığı           | İsim kısaltılacak |
+| Maliye Bakanlığı    | MB       | Hazine ve Maliye Bakanlığı           | İsim kısaltılacak |
+| Sağlık Bakanlığı    | SB       | Sağlık Bakanlığı                     | Değişiklik yok |
+| Sanayi Bakanlığı    | SAB      | Sanayi ve Teknoloji Bakanlığı        | İsim kısaltılacak |
+| Savunma Bakanlığı   | MSB      | Milli Savunma Bakanlığı              | İsim kısaltılacak |
+| Spor Bakanlığı      | SPB      | Gençlik ve Spor Bakanlığı            | İsim kısaltılacak |
+| Ticaret Bakanlığı   | TB       | Ticaret Bakanlığı                    | Değişiklik yok |
+| Ulaştırma Bakanlığı | UB       | Ulaştırma ve Altyapı Bakanlığı       | İsim kısaltılacak |
+| ---                 |          | Aile ve Sosyal Hizmetler Bakanlığı   | Görevleri diğer bakanlıklara paylaştırılacak |
 
 ## Adalet Bakanlığı
 
@@ -343,7 +349,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * TUT: ATM'ler birleştirilecek, komisyon alınmayacak.
 * TUT: Tüm bankalar ortak POS cihazı kullanacak.
 
-## Ulaştırma ve Altyapı Bakanlığı
+## Ulaştırma Bakanlığı
 
 * Hızlı tren demiryolları döşenecek (350km/s).
 * Demir yoluyla birlikte fiber ağlar döşenecek.
