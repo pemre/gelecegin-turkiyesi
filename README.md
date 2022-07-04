@@ -2,18 +2,6 @@
 
 Geleceğin Türkiyesi, hayal edilen ileri bir Türkiye için bir öneriler dizisidir. Belki bir gün bir siyasi parti programına alır veya bu değişimlerin eğlenceli biçimde anlatılacağı bir video oyun geliştirilir.
 
-## DÜZENLE
-
-* Türkçe olmayan harfleri duzelt.
-* ARASTIR: Hayvan haklari kanunu?
-  * Hayvan ambulansi
-* ARASTIR: Pilot mahalle: Ortak yemekhane, camasirhane...
-* ARASTIR: https://www.dogrulukpayi.com/bulten/2021-butce-dagilimi
-* Tüik enflasyon verilerini her şeyi dahil ederek hesaplayacak.
-* Titre ve kendine gel stratejisi
-* Silkelen stratejisi
-* Ağaç silkeleme stratejisi
-
 ## Çok Bakanlıklı Stratejiler
 
 * DED: Dengeli nüfus için küçük kentlere dönüş stratejisi
@@ -369,3 +357,56 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 ## Diyanet İşleri Başkanlığı
 
 * Tum tarikatler diyanete kayit yaptirmak zorunda olacak. Uye sayilarini bildirecek.
+
+---
+
+## DÜZENLE
+
+* Türkçe olmayan harfleri duzelt.
+* ARASTIR: Hayvan haklari kanunu?
+  * Hayvan ambulansi
+* ARASTIR: Pilot mahalle: Ortak yemekhane, camasirhane...
+* ARASTIR: https://www.dogrulukpayi.com/bulten/2021-butce-dagilimi
+* Tüik enflasyon verilerini her şeyi dahil ederek hesaplayacak.
+* Titre ve kendine gel stratejisi
+* Silkelen stratejisi
+* Ağaç silkeleme stratejisi
+* Çocuklara geri dönüşüm bilinci kazandırmak için konuyla ilgili oyuncaklar üretilecek. [1](https://www.amazon.com/Fisher-Price-GFJ12-Wonder-Recycling-Centrum/dp/B07HY171SF/)
+* https://odatv4.com/kultur-sanat/amerikali-turkolog-norm-kisamov-ingilizce-sozcuklerin-yarisi-turkce-222662
+* Şarap https://odatv4.com/turkiyeye-7-madalya-kazandiran-ismi-sadece-kilicdaroglu-aradi-15072128_m.html
+* Kamu vicdanını yaralayan olaylarla ilgili bir site kurulacak, tazminat davaları açılacak: Örn. Ananı da al git davası https://www.sozcu.com.tr/2021/ekonomi/15-yil-once-bugun-erdoganin-anani-da-al-git-dedigi-ciftci-tarlami-satisa-cikardim-6254609/
+* https://odatv4.com/her-tarikatin-lideri-maddi-kaynaklari-uye-sayisi-aciklanmali-15072137_m.html
+* https://odatv4.com/boyle-acilmisti...-kapiya-kilit-vuruldu-15072118_m.html
+* https://odatv4.com/evladimin-can-cekismesi-beni-olduruyor-15072112_m.html
+* Osmanlı saltanat soyundan gelen herkesin mallarına el konulacak. Açtıkları ocak, şirket vb tüm kurumlar kamulaştırılacak.
+* İşçisinin hakkını vermeyen şirketlere el konulacak, işçilerin hakkı verilecek. Şirket sahip ve yöneticilerinin mallarına —ve ailelerine kaçırdıysalar— ailelerinin mallarına el konulacak. [1](https://odatv4.com/dunyaca-unlu-fabrikada-skandal-15072115_m.html)
+* Alzheimer'ın erken teşhisi ve tedavisi için kaynak ayrılacak. [1](https://www.bbc.com/turkce/haberler-dunya-57819490)
+* Pankreas kanseri erken teşhisi için kaynak ayrılacak ve Vikipedi özendirilecek [viki haber bul]
+* Voynich el yazması araştırılacak
+* Özel yurtları kapat
+* Ensar vakfı kapat yargıla
+* Bilim > Uzay bölümü
+* Roket endüstrisi çevre dostu olabilir mi?Skyrora, faaliyetlerini mümkün olan en çevre dostu yöntemlerle yapmak istediğini söylüyor.Roketlerinde fosil yakıtlar ve gazyağı yakacak olmasına karşın gövdenin geri dönüştürülmüş plastikten yapılacağını söylüyor. [1](https://www.bbc.com/turkce/haberler-dunya-57768514)
+* Gübre: Bilinçli gübre kullanımını teşvik etmeli
+* Toprak analizleri yapılmalı, yetiştirilecek bitkinin besin maddesi başta olmak üzere birçok ihtiyaç, hedeflenen verime göre hesaplanmalı, 4D bitki besleme kuralında belirtildiği gibi doğru miktarda, doğru gübreyi, doğru yere, doğru zamanda uygulamalıyız
+* Ayrıca vahşi sulama sistemlerinden vazgeçmeli, hem su hem gübre kullanımında tasarruf sağlamalıyız.”
+* Gübre üretimi organik
+* İşsizliğe son
+* Devlet Planlama Teşkilatı yeniden örgütlenecektir
+* Beş yıllık genel ve yıllık özel kalkınma planları uygulanacaktır.
+* "Komşularla İşbirliği: Türkiye’nin enerji güvenliği, komşuları olan Irak, İran, Azerbaycan ve Rusya dostluğundadır. Suriye, Lübnan, Mısır ve Libya ile işbirliği, Doğu Akdeniz ve Ege’deki kaynaklarımız ve vatan güvenliğimiz açısından yaşamsal önem taşımaktadır. Bütün komşularımız, ekonomik kalkınmamız ve güvenliğimiz için değerli ortaklarımızdır. Çevremizde ürünlerimiz için çok geniş bir pazar var. Türkiye’nin güney komşuları yanında, Karadeniz’e çevre ülkelerle, Kafkas ve Balkan ülkeleriyle her alanda işbirliği kurumları oluşturulacaktır. Bu bölgelerde ortak gümrük alanları kurulacak, ortak enerji, ulaştırma ve turizm projeleri geliştirilecek, çifte vergilendirmeyi önleyen anlaşmalar yapılacak, ortak yatırım ve kalkınma bankaları kurulacak, özellikle büyük ölçekli yatırımlar için ortaklıklar oluşturulacak, bölgesel ticareti özendiren sistemler geliştirilecek, bilim, teknoloji, kültür ve eğitim alanlarında işbirliği yapılacaktır."
+* Orta Asya Cumhuriyetleri
+* Bilim > ortaokul ve lise çağındaki bilimle ilgili çocuklar için bölüm...
+* Devlet, beyaz hackerlarla bankalara saldırmalı, saldırdıktan sonra elde ettiği bulguları bankaya ileterek, 'Senin böyle bir açığın var, bunu düzelt' demeli
+* Offshore hesabı olan Türk vatandaşları incelenecek ve gerekirse vergi kaçırmaktan mallarına el konulacak.
+* Wikileaks belgelerinde Türkler veya Türkiye'yi ilgilendiren her şey araştırılacak.
+* İncirlik, Kürecik ve diğer tüm ülkelerin üsleri kapatılacak ve nükleer/balistik füzeler derhal gönderilecek.
+* Yabancı ülkelerle yapılan tüm gizli anlaşmalar açıklanacak. Tam tarafsız ve bağımsız bir tutum takınılacak.
+* Suçluların bulunmasında yeni teknikler kullanılacak ve araştırılacak. [1](https://www.indyturk.com/node/386716/bi̇li̇m/bilim-insanları-suçluları-yakalamanın-en-iyi-yolunu-buldu)
+* Türk oyun şirketleriyle işbirliği yapılarak eğitim amaçlı çeşitli oyunlar üretilecek. [1](https://www.indyturk.com/node/386246/ya%C5%9Fam/ara%C5%9Ft%C4%B1rma-red-dead-redemption-2-yaban-hayat%C4%B1n%C4%B1-%C3%B6%C4%9Frenmek-i%C3%A7in-e%C4%9Fitim-arac%C4%B1-olarak)
+* Alternatif enerji [1](https://www.cumhuriyet.com.tr/haber/insan-diskisini-sanal-paraya-donusturen-tuvalet-tasarladi-1851577)
+* Yurt çapında ağaçlandırma/yeşillendirme yapılarak erozyon azaltılacak.
+* Milletvekili dokunulmazlığı kaldırılacak. Hüküm giymiş milletvekilleri gerekli cezaları çekecek.
+* Parlamenter sistem geri getirilecek.
+* Kredi kartları
+* Podesta Sarayı ve benzeri tarihi mekanlar onarılacak ve müze/kültür evlerine dönüştürülecek. [1](https://odatv4.com/galatadaki-saraya-hirsizlar-dadandi-13072153_m.html)
