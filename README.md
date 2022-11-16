@@ -305,7 +305,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 
 ## Sanayi Bakanlığı
 
-* ? Etibank, demirbank?
+* ARASTIR: Etibank, Demirbank?
   * Kumaş, kıyafet üretimi
   * Petrol türevi değil pamuklu (bambulu?, ipekli?) ve cilde zarar vermeyen kıyafetler özendirilecek ve üretilecek.
 * Damlama sulama tesisleri kamulaştırılacak ve yenileri kurulacak.
@@ -322,6 +322,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 * Ucuz elektrikli araç üretimi yapılacak. [1](https://www.bbc.com/turkce/haberler-dunya-56191840)
 * Otomatik prefabrik ev üretim tesisleri kurulacak. [1](https://www.sozcu.com.tr/2021/teknoloji/mali-mulku-satan-elon-musk-yeni-hayati-38-metrekarelik-prefabrik-evde-yasiyor-6525635)
 * Plastik diş fırçası yerine doğa dostu biyobozunur fırçalar üretilecek. [1](https://www.kickstarter.com/projects/goodwell/be-the-first-battery-free-powered-toothbrush) [2](https://www.milliyet.com.tr/emlak/cevreye-dost-akilli-dis-fircasi-be-64072)
+* Tek kullanımlık plastik üretimi, satışı ve ithalatı yasaklanacak.
 
 ## Savunma Bakanlığı
 
@@ -351,6 +352,7 @@ Mevcut bakanlıklar için kaynak: https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27d
 
 * Türk Telekom ucuz hizmet sunacak.
 * Ayda 120 dakika konuşma, 120 sms ve 3GB internet herkese ücretsiz olacak.
+* ACIKLA: Fiberoptik aglar
 
 ---
 
